@@ -1,0 +1,13 @@
+HTML {
+  height: 100%;
+  width: 100%;
+}
+#demo{
+  font-family: cursive;
+}
+body{
+   background-color: rgb(0, 0, 0,0.8);
+  font-family: Verdana !important;
+    color: #1100ff;
+  }
+}
